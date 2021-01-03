@@ -1,7 +1,7 @@
-import openpyxl,os
+import openpyxl,sys
 
-path ='/home/silentcruzer/Automate-the-boring-stuff-with-python/Chapter-13'
-wb = openpyxl.load_workbook('before.xlsx')
+excel_file = sys.argv[1]
+wb = openpyxl.load_workbook(excel_file)
 sheet = wb['Sheet1']
 col_size = sheet.max_column
 row_size = sheet.max_row	

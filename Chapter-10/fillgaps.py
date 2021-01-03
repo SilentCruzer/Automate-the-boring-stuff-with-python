@@ -10,5 +10,5 @@ def gaps(path, prefix):
 				number, extension = name.split('.')
 				print(number)
 
-
-gaps('/home/silentcruzer/Automate-the-boring-stuff-with-python/Chapter-10','spam001')
+path = ''
+gaps(path,'spam001')
