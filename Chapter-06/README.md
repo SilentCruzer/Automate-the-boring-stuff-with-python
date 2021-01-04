@@ -1,4 +1,4 @@
-# Practice Projects
+# Practice Questions
 
 **1. What are escape characters?**
 
