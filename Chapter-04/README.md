@@ -1,6 +1,7 @@
 # Practice Questions
 
 **1. What is []?**
+
 	[] is a empty list with no values.
 
 **2. How would you assign the value 'hello' as the third value in a list stored in a variable named spam?(Assume spam contains[2, 4, 6, 8,10].)**
