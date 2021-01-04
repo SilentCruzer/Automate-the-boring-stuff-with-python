@@ -42,7 +42,7 @@
 
 **11. What is the difference between setting the bold variable to True, False, or None?**
 
-	True makes the run object bold, False makes the run object not bolded and None defaults to 	whatever the runs's style is set to.
+	True makes the run object bold, False makes the run object not bolded and None defaults to whatever the runs's style is set to.
 
 **12. How do you create a Document object for a new Word document?**
 
